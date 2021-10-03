@@ -1,0 +1,339 @@
+
+*{
+	font-family: 'Poppins', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+}
+a:hover{
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poppins', sans-serif;
+}
+
+
+.imag{
+	height: 59px;
+    width: 198.07142639160156px;
+    left: 212px;
+    top: 30px;
+    border-radius: 0px;
+
+}
+.header{
+	width: 100%;
+	height: ;
+}
+.main-manu .bg-light{
+	background-color: transparent !importain;
+}
+.nav-link:hover{
+	background-color: lightblue;
+	color: red;
+
+} 
+.scetion-header{
+height: 706px;
+width: 100%;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+ background-color: #F0FFF0;
+
+}
+.btn:hover{
+	color: red;
+	background-color: red;
+}
+.home{
+
+	position: relative;
+}
+.images img{
+	position: absolute;
+	height: 346px;
+width: 554px;
+left: 754px;
+top: 124px;
+border-radius: 0px;
+
+}
+.tag{
+	position: absolute;
+	height: 24px;
+width: 189px;
+left: 205px;
+top: 178px;
+border-radius: nullpx;
+ color: #FD511A;
+
+
+
+	
+
+
+
+}
+.tag2{
+position: absolute;
+height: 140px;
+width: 700;
+left: 205px;
+top: 212px;
+border-radius: nullpx;
+font-family: 'Poppins', sans-serif;
+ font-size: 48px;
+  line-height: 70px;
+  font-weight: bold;
+
+	
+ 
+}
+.tag3{
+position: absolute;
+font-weight: normal;
+height: 85px;
+width: 403px;
+left: 205px;
+top: 371px;
+border-radius: nullpx;
+font-size: 16px;
+line-height: 36px;
+color: black;
+font-family: 'Poppins', sans-serif;
+
+
+}
+.color{
+	color: #21B573;
+
+}
+.rad{
+	list-style-type: none;
+	 border-radius: 100px;
+}
+.btnn{
+	border: 1px solid #21B573;
+	position: absolute;
+	height: 43px;
+   width: 153px;
+   left: 205px;
+   top: 470px;
+  
+   padding: 12px, 36px, 12px, 36px;
+   background: #21B573;
+
+
+}
+.scetion-headertwo{
+  margin-top: 700px;
+}
+
+.row{
+	display: flex;
+}
+.ima img{
+	margin-left: 30px;
+	width: 66px;
+}
+.box{
+	margin-top: 50px;
+	
+}
+.tag4{
+margin-top: 10px;
+height: 36px;
+font-size: 20px;
+width: 144px;
+color:#413960;
+
+
+border-radius: nullpx;
+
+}
+.pic{
+	text-align: center;
+position: relative;
+
+height: 270px;
+width: 570px;
+background: #F8FFFB;
+
+
+border-radius: 10px;
+
+}
+.pic:hover{
+	border: 2px solid #21B573;
+}
+.col-3{
+	position: absolute;
+	top: 80px;
+	left: 100px;
+}
+.box2{
+	
+	position: absolute;
+	width: 100%;
+	width: 0%;
+	
+	visibility: hidden;
+
+}
+.col-3:hover .box2{
+	visibility: visible;
+}
+.Courses{
+	margin: 50px 0px;
+	
+}
+
+.tag6{
+	margin-left: 600px;
+	justify-content: center;
+font-family: Poppins;
+ font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 54px;
+color: #413960;
+font-weight: bold;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.ime img{
+	height: 234px;
+width: 331px;
+
+border-radius: 11px;
+
+}
+.tag7{
+	margin-top: 10px;
+height: 36px;
+width: 237px;
+color: #413960;
+
+border-radius: nullpx;
+font-weight: 500;
+font-size: 22px;
+
+
+}
+.any{
+	
+}
+.tag8{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+padding: 0px 30px;
+
+}
+.btnnn{
+	height: 35px;
+width: 137px;
+
+border-radius: 33px;
+padding: 8px, 28px, 8px, 28px;
+list-style-type: none;
+
+
+}
+.tag8{
+	text-align: justify;
+}
+.imi img{
+;
+	
+height: 120px;
+width: 120px;
+margin-left: 343px;
+;
+
+
+}
+.tag10{
+height: 120px;
+width: 583px;
+font-size: 16px;
+line-height: 30px;
+font-weight: normal;
+font-style: normal;
+border-radius: nullpx;
+color: #000000;
+
+}
+
+.mt-5{
+	margin-top: 80px;
+}
+.fun{
+height: 369px;
+width: 1440px;
+left: 0px;
+border-radius: 0px;
+background: #282531;
+
+
+}
+.fun{
+	padding-top: 70PX;
+	margin-left: 50px;
+}
+.tag12{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFF;
+
+}
+.tag11{
+	height: 60px;
+width: 366px;
+left: 143px;
+top: 2068px;
+border-radius: nullpx;
+
+	color: #FFF;
+	margin-left: 60px;
+
+}
+.tag13{
+text-align: center;
+padding-top: 80px;
+height: 30px;
+width: 223px;
+left: 536px;
+border-radius: nullpx;
+color: #CDCDCD;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
